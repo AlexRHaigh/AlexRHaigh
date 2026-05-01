@@ -19,8 +19,3 @@ Computer Engineering graduate from the **University of Manitoba** (B.Sc., Dean's
 ## 💼 Currently
 
 **Software Engineer @ Amiron Ventures** — building web and mobile applications deployed across iOS and Android, integrating external APIs (Government of Canada, OpenAI) and using vector databases for intelligent document processing workflows.
-
-
-## 🔗 Connect
-
-📧 contact@alexrhaigh.com
