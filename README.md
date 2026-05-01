@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alex Haigh 👋
 
-<!--
-**AlexRHaigh/AlexRHaigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate from the **University of Manitoba** (B.Sc., Dean's Honor List) with a focus in software engineering. I build web, mobile, and embedded systems — and I have a soft spot for ML and generative AI.
 
-Here are some ideas to get you started:
+📍 Winnipeg, Manitoba, Canada
+📫 contact@alexrhaigh.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech I Work With
+
+**Languages:** Python · C / C++ / C# · SQL · JavaScript
+**ML / AI:** PyTorch · TensorFlow · CUDA · YOLOv8 / v11 · Transformers · Diffusion Models
+**Web & Mobile:** React · Node.js · .NET · iOS / Android
+**Systems:** OpenMPI · I2C · CAN bus · ESP-NOW · STM32 · Raspberry Pi
+
+---
+
+## 💼 Currently
+
+**Software Engineer @ Amiron Ventures** — building web and mobile applications deployed across iOS and Android, integrating external APIs (Government of Canada, OpenAI) and using vector databases for intelligent document processing workflows.
+
+
+## 🔗 Connect
+
+📧 contact@alexrhaigh.com
