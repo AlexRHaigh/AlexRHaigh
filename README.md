@@ -3,7 +3,6 @@
 Computer Engineering graduate from the **University of Manitoba** (B.Sc., Dean's Honor List) with a focus in software engineering. I build web, mobile, and embedded systems — and I have a soft spot for ML and generative AI.
 
 📍 Winnipeg, Manitoba, Canada
-📫 contact@alexrhaigh.com
 
 ---
 
